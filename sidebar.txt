@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tin:home|Door43 (tin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tin|d43-tin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tin/archive/master.zip|d43-tin.zip]]
+
+**Recent Changes**
+{{changes>ns = tin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tin|Ethnologue data]]
+
